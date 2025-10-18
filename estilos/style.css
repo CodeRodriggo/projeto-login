@@ -1,0 +1,15 @@
+@charset"UTF8";
+
+/* 
+Paleta de cores:
+  Verde: #49a09d
+  Roxo: #5f2c52
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
