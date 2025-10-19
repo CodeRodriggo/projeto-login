@@ -21,6 +21,8 @@ html, body{
   width: 100vw;
   height: 100vh;
   background-color: #5f2c52;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 main{
